@@ -71,7 +71,15 @@
         {
           "dashedName": "zh-a1-module-communicating-personal-information",
           "comingSoon": true,
-          "blocks": []
+          "blocks": [
+            "zh-a1-warm-up-preparing-to-share-personal-information",
+            "zh-a1-learn-sharing-basic-personal-information",
+            "zh-a1-learn-exchanging-phone-numbers",
+            "zh-a1-learn-filling-in-personal-information",
+            "zh-a1-practice-personal-information-at-work",
+            "zh-a1-review-personal-information",
+            "zh-a1-quiz-personal-information"
+          ]
         }
       ]
     },

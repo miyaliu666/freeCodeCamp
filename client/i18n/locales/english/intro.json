@@ -8751,6 +8751,34 @@
       "zh-a1-quiz-numbers-below-100": {
         "title": "Numbers below 100 Quiz",
         "intro": ["", ""]
+      },
+      "zh-a1-warm-up-preparing-to-share-personal-information": {
+        "title": "Preparing to Share Personal Information",
+        "intro": ["", ""]
+      },
+      "zh-a1-learn-sharing-basic-personal-information": {
+        "title": "Sharing Basic Personal Information",
+        "intro": ["", ""]
+      },
+      "zh-a1-learn-exchanging-phone-numbers": {
+        "title": "Exchanging Phone Numbers",
+        "intro": ["", ""]
+      },
+      "zh-a1-learn-filling-in-personal-information": {
+        "title": "Filling in Personal Information",
+        "intro": ["", ""]
+      },
+      "zh-a1-practice-personal-information-at-work": {
+        "title": "Personal Information at Work",
+        "intro": ["", ""]
+      },
+      "zh-a1-review-personal-information": {
+        "title": "Personal Information Review",
+        "intro": ["", ""]
+      },
+      "zh-a1-quiz-personal-information": {
+        "title": "Personal Information Quiz",
+        "intro": ["", ""]
       }
     }
   },

@@ -1,0 +1,10 @@
+{
+  "isUpcomingChange": true,
+  "dashedName": "zh-a1-quiz-personal-information",
+  "helpCategory": "Chinese Curriculum",
+  "blockLayout": "dialogue-grid",
+  "challengeOrder": [
+    { "id": "69c004dae7649817a440d842", "title": "Personal Information Quiz" }
+  ],
+  "blockLabel": "quiz"
+}

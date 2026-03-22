@@ -1,0 +1,10 @@
+{
+  "isUpcomingChange": true,
+  "dashedName": "zh-a1-learn-sharing-basic-personal-information",
+  "helpCategory": "Chinese Curriculum",
+  "blockLayout": "challenge-grid",
+  "challengeOrder": [
+    { "id": "69c0038ebdb74fd760425aa2", "title": "Dialogue 1: I'm Tom" }
+  ],
+  "blockLabel": "learn"
+}

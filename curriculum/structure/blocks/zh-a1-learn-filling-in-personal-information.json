@@ -1,0 +1,10 @@
+{
+  "isUpcomingChange": true,
+  "dashedName": "zh-a1-learn-filling-in-personal-information",
+  "helpCategory": "Chinese Curriculum",
+  "blockLayout": "challenge-grid",
+  "challengeOrder": [
+    { "id": "69c003d1464b6efa67a36e42", "title": "Dialogue 1: I'm Tom" }
+  ],
+  "blockLabel": "learn"
+}
